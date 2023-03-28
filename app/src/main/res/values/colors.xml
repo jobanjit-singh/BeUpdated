@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="limegreen">#32cd32</color>
+    <color name="statusbarcolor">#2EA32E</color>
+    <color name="darkback">#202020</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
